@@ -1,0 +1,11 @@
+{
+  "name": "last-squad-standing",
+  "version": "1.0.0",
+  "description": "World Cup 2026 friends-and-family sweepstake tracker — Last Player Standing + survival points leaderboard",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "license": "MIT"
+}

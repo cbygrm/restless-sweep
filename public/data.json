@@ -1,0 +1,2924 @@
+{
+  "updated": "2026-06-29T11:31:42.078Z",
+  "tournament": "FIFA World Cup 2026",
+  "counts": {
+    "dates": 39,
+    "matches": 104,
+    "completed": 73,
+    "live": 0
+  },
+  "matches": [
+    {
+      "id": "760415",
+      "date": "2026-06-11",
+      "kickoff": "2026-06-11T19:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "South Africa at Mexico",
+      "home": {
+        "name": "Mexico",
+        "abbr": "MEX",
+        "id": "203",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png",
+        "color": "#006847",
+        "score": "2",
+        "winner": true
+      },
+      "away": {
+        "name": "South Africa",
+        "abbr": "RSA",
+        "id": "467",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png",
+        "color": "#FFB81C",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760414",
+      "date": "2026-06-12",
+      "kickoff": "2026-06-12T02:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Czechia at South Korea",
+      "home": {
+        "name": "South Korea",
+        "abbr": "KOR",
+        "id": "451",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png",
+        "color": "#ce2028",
+        "score": "2",
+        "winner": true
+      },
+      "away": {
+        "name": "Czechia",
+        "abbr": "CZE",
+        "id": "450",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png",
+        "color": "#d7141a",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760416",
+      "date": "2026-06-12",
+      "kickoff": "2026-06-12T19:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Bosnia-Herzegovina at Canada",
+      "home": {
+        "name": "Canada",
+        "abbr": "CAN",
+        "id": "206",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
+        "color": "#ed2224",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "name": "Bosnia-Herzegovina",
+        "abbr": "BIH",
+        "id": "452",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png",
+        "color": "#112855",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760417",
+      "date": "2026-06-13",
+      "kickoff": "2026-06-13T01:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Paraguay at United States",
+      "home": {
+        "name": "United States",
+        "abbr": "USA",
+        "id": "660",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "color": "#d42339",
+        "score": "4",
+        "winner": true
+      },
+      "away": {
+        "name": "Paraguay",
+        "abbr": "PAR",
+        "id": "210",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png",
+        "color": "#ea2300",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760420",
+      "date": "2026-06-13",
+      "kickoff": "2026-06-13T19:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Switzerland at Qatar",
+      "home": {
+        "name": "Qatar",
+        "abbr": "QAT",
+        "id": "4398",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/qat.png",
+        "color": "#691a40",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "name": "Switzerland",
+        "abbr": "SUI",
+        "id": "475",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
+        "color": "#FF0000",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760419",
+      "date": "2026-06-13",
+      "kickoff": "2026-06-13T22:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Morocco at Brazil",
+      "home": {
+        "name": "Brazil",
+        "abbr": "BRA",
+        "id": "205",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+        "color": "#fee000",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "name": "Morocco",
+        "abbr": "MAR",
+        "id": "2869",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png",
+        "color": "#df2027",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760418",
+      "date": "2026-06-14",
+      "kickoff": "2026-06-14T01:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Scotland at Haiti",
+      "home": {
+        "name": "Haiti",
+        "abbr": "HAI",
+        "id": "2654",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hai.png",
+        "color": "#0033a0",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Scotland",
+        "abbr": "SCO",
+        "id": "580",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png",
+        "color": "#1a2d69",
+        "score": "1",
+        "winner": true
+      }
+    },
+    {
+      "id": "760421",
+      "date": "2026-06-14",
+      "kickoff": "2026-06-14T04:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Türkiye at Australia",
+      "home": {
+        "name": "Australia",
+        "abbr": "AUS",
+        "id": "628",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+        "color": "#FFCD00",
+        "score": "2",
+        "winner": true
+      },
+      "away": {
+        "name": "Türkiye",
+        "abbr": "TUR",
+        "id": "465",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
+        "color": "#ffffff",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760422",
+      "date": "2026-06-14",
+      "kickoff": "2026-06-14T17:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Curaçao at Germany",
+      "home": {
+        "name": "Germany",
+        "abbr": "GER",
+        "id": "481",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+        "color": "#FFFFFF",
+        "score": "7",
+        "winner": true
+      },
+      "away": {
+        "name": "Curaçao",
+        "abbr": "CUW",
+        "id": "11678",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11678.png",
+        "color": "#0537e4",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760425",
+      "date": "2026-06-14",
+      "kickoff": "2026-06-14T20:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Japan at Netherlands",
+      "home": {
+        "name": "Netherlands",
+        "abbr": "NED",
+        "id": "449",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+        "color": "#fb5d00",
+        "score": "2",
+        "winner": false
+      },
+      "away": {
+        "name": "Japan",
+        "abbr": "JPN",
+        "id": "627",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
+        "color": "#000555",
+        "score": "2",
+        "winner": false
+      }
+    },
+    {
+      "id": "760423",
+      "date": "2026-06-14",
+      "kickoff": "2026-06-14T23:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Ecuador at Ivory Coast",
+      "home": {
+        "name": "Ivory Coast",
+        "abbr": "CIV",
+        "id": "4789",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/civ.png",
+        "color": "#FF8200",
+        "score": "1",
+        "winner": true
+      },
+      "away": {
+        "name": "Ecuador",
+        "abbr": "ECU",
+        "id": "209",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png",
+        "color": "#ffdd00",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760424",
+      "date": "2026-06-15",
+      "kickoff": "2026-06-15T02:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Tunisia at Sweden",
+      "home": {
+        "name": "Sweden",
+        "abbr": "SWE",
+        "id": "466",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
+        "color": "#fecb00",
+        "score": "5",
+        "winner": true
+      },
+      "away": {
+        "name": "Tunisia",
+        "abbr": "TUN",
+        "id": "659",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tun.png",
+        "color": "#D20300",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760428",
+      "date": "2026-06-15",
+      "kickoff": "2026-06-15T16:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Cape Verde at Spain",
+      "home": {
+        "name": "Spain",
+        "abbr": "ESP",
+        "id": "164",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+        "color": "#c60b1e",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Cape Verde",
+        "abbr": "CPV",
+        "id": "2597",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cpv.png",
+        "color": "#000080",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760426",
+      "date": "2026-06-15",
+      "kickoff": "2026-06-15T19:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Egypt at Belgium",
+      "home": {
+        "name": "Belgium",
+        "abbr": "BEL",
+        "id": "459",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+        "color": "#E30613",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "name": "Egypt",
+        "abbr": "EGY",
+        "id": "2620",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/egy.png",
+        "color": "#D20300",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760429",
+      "date": "2026-06-15",
+      "kickoff": "2026-06-15T22:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Uruguay at Saudi Arabia",
+      "home": {
+        "name": "Saudi Arabia",
+        "abbr": "KSA",
+        "id": "655",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ksa.png",
+        "color": "#FFFFFF",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "name": "Uruguay",
+        "abbr": "URU",
+        "id": "212",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png",
+        "color": "#55B5E5",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760427",
+      "date": "2026-06-16",
+      "kickoff": "2026-06-16T01:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "New Zealand at Iran",
+      "home": {
+        "name": "Iran",
+        "abbr": "IRN",
+        "id": "469",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irn.png",
+        "color": "#FFFFFF",
+        "score": "2",
+        "winner": false
+      },
+      "away": {
+        "name": "New Zealand",
+        "abbr": "NZL",
+        "id": "2666",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nzl.png",
+        "color": "#000000",
+        "score": "2",
+        "winner": false
+      }
+    },
+    {
+      "id": "760432",
+      "date": "2026-06-16",
+      "kickoff": "2026-06-16T19:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Senegal at France",
+      "home": {
+        "name": "France",
+        "abbr": "FRA",
+        "id": "478",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+        "color": "#000080",
+        "score": "3",
+        "winner": true
+      },
+      "away": {
+        "name": "Senegal",
+        "abbr": "SEN",
+        "id": "654",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sen.png",
+        "color": "#FFFFFF",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760430",
+      "date": "2026-06-16",
+      "kickoff": "2026-06-16T22:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Norway at Iraq",
+      "home": {
+        "name": "Iraq",
+        "abbr": "IRQ",
+        "id": "4375",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irq.png",
+        "color": "#FFFFFF",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "name": "Norway",
+        "abbr": "NOR",
+        "id": "464",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
+        "color": "#C8102E",
+        "score": "4",
+        "winner": true
+      }
+    },
+    {
+      "id": "760433",
+      "date": "2026-06-17",
+      "kickoff": "2026-06-17T01:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Algeria at Argentina",
+      "home": {
+        "name": "Argentina",
+        "abbr": "ARG",
+        "id": "202",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+        "color": "#74acdf",
+        "score": "3",
+        "winner": true
+      },
+      "away": {
+        "name": "Algeria",
+        "abbr": "ALG",
+        "id": "624",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/alg.png",
+        "color": "#4F9A44",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760431",
+      "date": "2026-06-17",
+      "kickoff": "2026-06-17T04:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Jordan at Austria",
+      "home": {
+        "name": "Austria",
+        "abbr": "AUT",
+        "id": "474",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png",
+        "color": "#d72b2c",
+        "score": "3",
+        "winner": true
+      },
+      "away": {
+        "name": "Jordan",
+        "abbr": "JOR",
+        "id": "2917",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jor.png",
+        "color": "#E70000",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760435",
+      "date": "2026-06-17",
+      "kickoff": "2026-06-17T17:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Congo DR at Portugal",
+      "home": {
+        "name": "Portugal",
+        "abbr": "POR",
+        "id": "482",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+        "color": "#da291c",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "name": "Congo DR",
+        "abbr": "COD",
+        "id": "2850",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rdc.png",
+        "color": "#418fde",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760437",
+      "date": "2026-06-17",
+      "kickoff": "2026-06-17T20:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Croatia at England",
+      "home": {
+        "name": "England",
+        "abbr": "ENG",
+        "id": "448",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+        "color": "#ffffff",
+        "score": "4",
+        "winner": true
+      },
+      "away": {
+        "name": "Croatia",
+        "abbr": "CRO",
+        "id": "477",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cro.png",
+        "color": "#ff0000",
+        "score": "2",
+        "winner": false
+      }
+    },
+    {
+      "id": "760434",
+      "date": "2026-06-17",
+      "kickoff": "2026-06-17T23:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Panama at Ghana",
+      "home": {
+        "name": "Ghana",
+        "abbr": "GHA",
+        "id": "4469",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gha.png",
+        "color": "#fbd632",
+        "score": "1",
+        "winner": true
+      },
+      "away": {
+        "name": "Panama",
+        "abbr": "PAN",
+        "id": "2659",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pan.png",
+        "color": "#d21034",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760436",
+      "date": "2026-06-18",
+      "kickoff": "2026-06-18T02:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Colombia at Uzbekistan",
+      "home": {
+        "name": "Uzbekistan",
+        "abbr": "UZB",
+        "id": "2570",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png",
+        "color": "#ffffff",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "name": "Colombia",
+        "abbr": "COL",
+        "id": "208",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/col.png",
+        "color": "#fbd632",
+        "score": "3",
+        "winner": true
+      }
+    },
+    {
+      "id": "760438",
+      "date": "2026-06-18",
+      "kickoff": "2026-06-18T16:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "South Africa at Czechia",
+      "home": {
+        "name": "Czechia",
+        "abbr": "CZE",
+        "id": "450",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png",
+        "color": "#d7141a",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "name": "South Africa",
+        "abbr": "RSA",
+        "id": "467",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png",
+        "color": "#FFB81C",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760439",
+      "date": "2026-06-18",
+      "kickoff": "2026-06-18T19:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Bosnia-Herzegovina at Switzerland",
+      "home": {
+        "name": "Switzerland",
+        "abbr": "SUI",
+        "id": "475",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
+        "color": "#FF0000",
+        "score": "4",
+        "winner": true
+      },
+      "away": {
+        "name": "Bosnia-Herzegovina",
+        "abbr": "BIH",
+        "id": "452",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png",
+        "color": "#112855",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760440",
+      "date": "2026-06-18",
+      "kickoff": "2026-06-18T22:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Qatar at Canada",
+      "home": {
+        "name": "Canada",
+        "abbr": "CAN",
+        "id": "206",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
+        "color": "#ed2224",
+        "score": "6",
+        "winner": true
+      },
+      "away": {
+        "name": "Qatar",
+        "abbr": "QAT",
+        "id": "4398",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/qat.png",
+        "color": "#691a40",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760441",
+      "date": "2026-06-19",
+      "kickoff": "2026-06-19T01:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "South Korea at Mexico",
+      "home": {
+        "name": "Mexico",
+        "abbr": "MEX",
+        "id": "203",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png",
+        "color": "#006847",
+        "score": "1",
+        "winner": true
+      },
+      "away": {
+        "name": "South Korea",
+        "abbr": "KOR",
+        "id": "451",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png",
+        "color": "#ce2028",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760442",
+      "date": "2026-06-19",
+      "kickoff": "2026-06-19T19:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Australia at United States",
+      "home": {
+        "name": "United States",
+        "abbr": "USA",
+        "id": "660",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "color": "#d42339",
+        "score": "2",
+        "winner": true
+      },
+      "away": {
+        "name": "Australia",
+        "abbr": "AUS",
+        "id": "628",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+        "color": "#FFCD00",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760445",
+      "date": "2026-06-19",
+      "kickoff": "2026-06-19T22:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Morocco at Scotland",
+      "home": {
+        "name": "Scotland",
+        "abbr": "SCO",
+        "id": "580",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png",
+        "color": "#1a2d69",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Morocco",
+        "abbr": "MAR",
+        "id": "2869",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png",
+        "color": "#df2027",
+        "score": "1",
+        "winner": true
+      }
+    },
+    {
+      "id": "760444",
+      "date": "2026-06-20",
+      "kickoff": "2026-06-20T00:30Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Haiti at Brazil",
+      "home": {
+        "name": "Brazil",
+        "abbr": "BRA",
+        "id": "205",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+        "color": "#fee000",
+        "score": "3",
+        "winner": true
+      },
+      "away": {
+        "name": "Haiti",
+        "abbr": "HAI",
+        "id": "2654",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hai.png",
+        "color": "#0033a0",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760443",
+      "date": "2026-06-20",
+      "kickoff": "2026-06-20T03:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Paraguay at Türkiye",
+      "home": {
+        "name": "Türkiye",
+        "abbr": "TUR",
+        "id": "465",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
+        "color": "#ffffff",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Paraguay",
+        "abbr": "PAR",
+        "id": "210",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png",
+        "color": "#ea2300",
+        "score": "1",
+        "winner": true
+      }
+    },
+    {
+      "id": "760447",
+      "date": "2026-06-20",
+      "kickoff": "2026-06-20T17:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Sweden at Netherlands",
+      "home": {
+        "name": "Netherlands",
+        "abbr": "NED",
+        "id": "449",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+        "color": "#fb5d00",
+        "score": "5",
+        "winner": true
+      },
+      "away": {
+        "name": "Sweden",
+        "abbr": "SWE",
+        "id": "466",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
+        "color": "#fecb00",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760448",
+      "date": "2026-06-20",
+      "kickoff": "2026-06-20T20:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Ivory Coast at Germany",
+      "home": {
+        "name": "Germany",
+        "abbr": "GER",
+        "id": "481",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+        "color": "#FFFFFF",
+        "score": "2",
+        "winner": true
+      },
+      "away": {
+        "name": "Ivory Coast",
+        "abbr": "CIV",
+        "id": "4789",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/civ.png",
+        "color": "#FF8200",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760446",
+      "date": "2026-06-21",
+      "kickoff": "2026-06-21T00:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Curaçao at Ecuador",
+      "home": {
+        "name": "Ecuador",
+        "abbr": "ECU",
+        "id": "209",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png",
+        "color": "#ffdd00",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Curaçao",
+        "abbr": "CUW",
+        "id": "11678",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11678.png",
+        "color": "#0537e4",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760449",
+      "date": "2026-06-21",
+      "kickoff": "2026-06-21T04:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Japan at Tunisia",
+      "home": {
+        "name": "Tunisia",
+        "abbr": "TUN",
+        "id": "659",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tun.png",
+        "color": "#D20300",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Japan",
+        "abbr": "JPN",
+        "id": "627",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
+        "color": "#000555",
+        "score": "4",
+        "winner": true
+      }
+    },
+    {
+      "id": "760453",
+      "date": "2026-06-21",
+      "kickoff": "2026-06-21T16:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Saudi Arabia at Spain",
+      "home": {
+        "name": "Spain",
+        "abbr": "ESP",
+        "id": "164",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+        "color": "#c60b1e",
+        "score": "4",
+        "winner": true
+      },
+      "away": {
+        "name": "Saudi Arabia",
+        "abbr": "KSA",
+        "id": "655",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ksa.png",
+        "color": "#FFFFFF",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760451",
+      "date": "2026-06-21",
+      "kickoff": "2026-06-21T19:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Iran at Belgium",
+      "home": {
+        "name": "Belgium",
+        "abbr": "BEL",
+        "id": "459",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+        "color": "#E30613",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Iran",
+        "abbr": "IRN",
+        "id": "469",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irn.png",
+        "color": "#FFFFFF",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760450",
+      "date": "2026-06-21",
+      "kickoff": "2026-06-21T22:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Cape Verde at Uruguay",
+      "home": {
+        "name": "Uruguay",
+        "abbr": "URU",
+        "id": "212",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png",
+        "color": "#55B5E5",
+        "score": "2",
+        "winner": false
+      },
+      "away": {
+        "name": "Cape Verde",
+        "abbr": "CPV",
+        "id": "2597",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cpv.png",
+        "color": "#000080",
+        "score": "2",
+        "winner": false
+      }
+    },
+    {
+      "id": "760452",
+      "date": "2026-06-22",
+      "kickoff": "2026-06-22T01:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Egypt at New Zealand",
+      "home": {
+        "name": "New Zealand",
+        "abbr": "NZL",
+        "id": "2666",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nzl.png",
+        "color": "#000000",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "name": "Egypt",
+        "abbr": "EGY",
+        "id": "2620",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/egy.png",
+        "color": "#D20300",
+        "score": "3",
+        "winner": true
+      }
+    },
+    {
+      "id": "760456",
+      "date": "2026-06-22",
+      "kickoff": "2026-06-22T17:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Austria at Argentina",
+      "home": {
+        "name": "Argentina",
+        "abbr": "ARG",
+        "id": "202",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+        "color": "#74acdf",
+        "score": "2",
+        "winner": true
+      },
+      "away": {
+        "name": "Austria",
+        "abbr": "AUT",
+        "id": "474",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png",
+        "color": "#d72b2c",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760457",
+      "date": "2026-06-22",
+      "kickoff": "2026-06-22T21:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Iraq at France",
+      "home": {
+        "name": "France",
+        "abbr": "FRA",
+        "id": "478",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+        "color": "#000080",
+        "score": "3",
+        "winner": true
+      },
+      "away": {
+        "name": "Iraq",
+        "abbr": "IRQ",
+        "id": "4375",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irq.png",
+        "color": "#FFFFFF",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760454",
+      "date": "2026-06-23",
+      "kickoff": "2026-06-23T00:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Senegal at Norway",
+      "home": {
+        "name": "Norway",
+        "abbr": "NOR",
+        "id": "464",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
+        "color": "#C8102E",
+        "score": "3",
+        "winner": true
+      },
+      "away": {
+        "name": "Senegal",
+        "abbr": "SEN",
+        "id": "654",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sen.png",
+        "color": "#FFFFFF",
+        "score": "2",
+        "winner": false
+      }
+    },
+    {
+      "id": "760455",
+      "date": "2026-06-23",
+      "kickoff": "2026-06-23T03:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Algeria at Jordan",
+      "home": {
+        "name": "Jordan",
+        "abbr": "JOR",
+        "id": "2917",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jor.png",
+        "color": "#E70000",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "name": "Algeria",
+        "abbr": "ALG",
+        "id": "624",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/alg.png",
+        "color": "#4F9A44",
+        "score": "2",
+        "winner": true
+      }
+    },
+    {
+      "id": "760461",
+      "date": "2026-06-23",
+      "kickoff": "2026-06-23T17:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Uzbekistan at Portugal",
+      "home": {
+        "name": "Portugal",
+        "abbr": "POR",
+        "id": "482",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+        "color": "#da291c",
+        "score": "5",
+        "winner": true
+      },
+      "away": {
+        "name": "Uzbekistan",
+        "abbr": "UZB",
+        "id": "2570",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png",
+        "color": "#ffffff",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760458",
+      "date": "2026-06-23",
+      "kickoff": "2026-06-23T20:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Ghana at England",
+      "home": {
+        "name": "England",
+        "abbr": "ENG",
+        "id": "448",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+        "color": "#ffffff",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Ghana",
+        "abbr": "GHA",
+        "id": "4469",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gha.png",
+        "color": "#fbd632",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760460",
+      "date": "2026-06-23",
+      "kickoff": "2026-06-23T23:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Croatia at Panama",
+      "home": {
+        "name": "Panama",
+        "abbr": "PAN",
+        "id": "2659",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pan.png",
+        "color": "#d21034",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Croatia",
+        "abbr": "CRO",
+        "id": "477",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cro.png",
+        "color": "#ff0000",
+        "score": "1",
+        "winner": true
+      }
+    },
+    {
+      "id": "760459",
+      "date": "2026-06-24",
+      "kickoff": "2026-06-24T02:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Congo DR at Colombia",
+      "home": {
+        "name": "Colombia",
+        "abbr": "COL",
+        "id": "208",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/col.png",
+        "color": "#fbd632",
+        "score": "1",
+        "winner": true
+      },
+      "away": {
+        "name": "Congo DR",
+        "abbr": "COD",
+        "id": "2850",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rdc.png",
+        "color": "#418fde",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760462",
+      "date": "2026-06-24",
+      "kickoff": "2026-06-24T19:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Qatar at Bosnia-Herzegovina",
+      "home": {
+        "name": "Bosnia-Herzegovina",
+        "abbr": "BIH",
+        "id": "452",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png",
+        "color": "#112855",
+        "score": "3",
+        "winner": true
+      },
+      "away": {
+        "name": "Qatar",
+        "abbr": "QAT",
+        "id": "4398",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/qat.png",
+        "color": "#691a40",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760463",
+      "date": "2026-06-24",
+      "kickoff": "2026-06-24T19:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Canada at Switzerland",
+      "home": {
+        "name": "Switzerland",
+        "abbr": "SUI",
+        "id": "475",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
+        "color": "#FF0000",
+        "score": "2",
+        "winner": true
+      },
+      "away": {
+        "name": "Canada",
+        "abbr": "CAN",
+        "id": "206",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
+        "color": "#ed2224",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760464",
+      "date": "2026-06-24",
+      "kickoff": "2026-06-24T22:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Haiti at Morocco",
+      "home": {
+        "name": "Morocco",
+        "abbr": "MAR",
+        "id": "2869",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png",
+        "color": "#df2027",
+        "score": "4",
+        "winner": true
+      },
+      "away": {
+        "name": "Haiti",
+        "abbr": "HAI",
+        "id": "2654",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hai.png",
+        "color": "#0033a0",
+        "score": "2",
+        "winner": false
+      }
+    },
+    {
+      "id": "760465",
+      "date": "2026-06-24",
+      "kickoff": "2026-06-24T22:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Brazil at Scotland",
+      "home": {
+        "name": "Scotland",
+        "abbr": "SCO",
+        "id": "580",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png",
+        "color": "#1a2d69",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Brazil",
+        "abbr": "BRA",
+        "id": "205",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+        "color": "#fee000",
+        "score": "3",
+        "winner": true
+      }
+    },
+    {
+      "id": "760466",
+      "date": "2026-06-25",
+      "kickoff": "2026-06-25T01:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "South Korea at South Africa",
+      "home": {
+        "name": "South Africa",
+        "abbr": "RSA",
+        "id": "467",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png",
+        "color": "#FFB81C",
+        "score": "1",
+        "winner": true
+      },
+      "away": {
+        "name": "South Korea",
+        "abbr": "KOR",
+        "id": "451",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png",
+        "color": "#ce2028",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760467",
+      "date": "2026-06-25",
+      "kickoff": "2026-06-25T01:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Mexico at Czechia",
+      "home": {
+        "name": "Czechia",
+        "abbr": "CZE",
+        "id": "450",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png",
+        "color": "#d7141a",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Mexico",
+        "abbr": "MEX",
+        "id": "203",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png",
+        "color": "#006847",
+        "score": "3",
+        "winner": true
+      }
+    },
+    {
+      "id": "760468",
+      "date": "2026-06-25",
+      "kickoff": "2026-06-25T20:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Germany at Ecuador",
+      "home": {
+        "name": "Ecuador",
+        "abbr": "ECU",
+        "id": "209",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png",
+        "color": "#ffdd00",
+        "score": "2",
+        "winner": true
+      },
+      "away": {
+        "name": "Germany",
+        "abbr": "GER",
+        "id": "481",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+        "color": "#FFFFFF",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760473",
+      "date": "2026-06-25",
+      "kickoff": "2026-06-25T20:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Ivory Coast at Curaçao",
+      "home": {
+        "name": "Curaçao",
+        "abbr": "CUW",
+        "id": "11678",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11678.png",
+        "color": "#0537e4",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Ivory Coast",
+        "abbr": "CIV",
+        "id": "4789",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/civ.png",
+        "color": "#FF8200",
+        "score": "2",
+        "winner": true
+      }
+    },
+    {
+      "id": "760471",
+      "date": "2026-06-25",
+      "kickoff": "2026-06-25T23:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Sweden at Japan",
+      "home": {
+        "name": "Japan",
+        "abbr": "JPN",
+        "id": "627",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
+        "color": "#000555",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "name": "Sweden",
+        "abbr": "SWE",
+        "id": "466",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
+        "color": "#fecb00",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760472",
+      "date": "2026-06-25",
+      "kickoff": "2026-06-25T23:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Netherlands at Tunisia",
+      "home": {
+        "name": "Tunisia",
+        "abbr": "TUN",
+        "id": "659",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tun.png",
+        "color": "#D20300",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "name": "Netherlands",
+        "abbr": "NED",
+        "id": "449",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+        "color": "#fb5d00",
+        "score": "3",
+        "winner": true
+      }
+    },
+    {
+      "id": "760469",
+      "date": "2026-06-26",
+      "kickoff": "2026-06-26T02:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Australia at Paraguay",
+      "home": {
+        "name": "Paraguay",
+        "abbr": "PAR",
+        "id": "210",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png",
+        "color": "#ea2300",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Australia",
+        "abbr": "AUS",
+        "id": "628",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+        "color": "#FFCD00",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760470",
+      "date": "2026-06-26",
+      "kickoff": "2026-06-26T02:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "United States at Türkiye",
+      "home": {
+        "name": "Türkiye",
+        "abbr": "TUR",
+        "id": "465",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
+        "color": "#ffffff",
+        "score": "3",
+        "winner": true
+      },
+      "away": {
+        "name": "United States",
+        "abbr": "USA",
+        "id": "660",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "color": "#d42339",
+        "score": "2",
+        "winner": false
+      }
+    },
+    {
+      "id": "760474",
+      "date": "2026-06-26",
+      "kickoff": "2026-06-26T19:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Iraq at Senegal",
+      "home": {
+        "name": "Senegal",
+        "abbr": "SEN",
+        "id": "654",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sen.png",
+        "color": "#FFFFFF",
+        "score": "5",
+        "winner": true
+      },
+      "away": {
+        "name": "Iraq",
+        "abbr": "IRQ",
+        "id": "4375",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irq.png",
+        "color": "#FFFFFF",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760475",
+      "date": "2026-06-26",
+      "kickoff": "2026-06-26T19:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "France at Norway",
+      "home": {
+        "name": "Norway",
+        "abbr": "NOR",
+        "id": "464",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
+        "color": "#C8102E",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "name": "France",
+        "abbr": "FRA",
+        "id": "478",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+        "color": "#000080",
+        "score": "4",
+        "winner": true
+      }
+    },
+    {
+      "id": "760478",
+      "date": "2026-06-27",
+      "kickoff": "2026-06-27T00:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Saudi Arabia at Cape Verde",
+      "home": {
+        "name": "Cape Verde",
+        "abbr": "CPV",
+        "id": "2597",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cpv.png",
+        "color": "#000080",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Saudi Arabia",
+        "abbr": "KSA",
+        "id": "655",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ksa.png",
+        "color": "#FFFFFF",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760479",
+      "date": "2026-06-27",
+      "kickoff": "2026-06-27T00:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Spain at Uruguay",
+      "home": {
+        "name": "Uruguay",
+        "abbr": "URU",
+        "id": "212",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png",
+        "color": "#55B5E5",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Spain",
+        "abbr": "ESP",
+        "id": "164",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+        "color": "#c60b1e",
+        "score": "1",
+        "winner": true
+      }
+    },
+    {
+      "id": "760476",
+      "date": "2026-06-27",
+      "kickoff": "2026-06-27T03:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Iran at Egypt",
+      "home": {
+        "name": "Egypt",
+        "abbr": "EGY",
+        "id": "2620",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/egy.png",
+        "color": "#D20300",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "name": "Iran",
+        "abbr": "IRN",
+        "id": "469",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irn.png",
+        "color": "#FFFFFF",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760477",
+      "date": "2026-06-27",
+      "kickoff": "2026-06-27T03:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Belgium at New Zealand",
+      "home": {
+        "name": "New Zealand",
+        "abbr": "NZL",
+        "id": "2666",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nzl.png",
+        "color": "#000000",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "name": "Belgium",
+        "abbr": "BEL",
+        "id": "459",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+        "color": "#E30613",
+        "score": "5",
+        "winner": true
+      }
+    },
+    {
+      "id": "760480",
+      "date": "2026-06-27",
+      "kickoff": "2026-06-27T21:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Ghana at Croatia",
+      "home": {
+        "name": "Croatia",
+        "abbr": "CRO",
+        "id": "477",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cro.png",
+        "color": "#ff0000",
+        "score": "2",
+        "winner": true
+      },
+      "away": {
+        "name": "Ghana",
+        "abbr": "GHA",
+        "id": "4469",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gha.png",
+        "color": "#fbd632",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760485",
+      "date": "2026-06-27",
+      "kickoff": "2026-06-27T21:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "England at Panama",
+      "home": {
+        "name": "Panama",
+        "abbr": "PAN",
+        "id": "2659",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pan.png",
+        "color": "#d21034",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "England",
+        "abbr": "ENG",
+        "id": "448",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+        "color": "#ffffff",
+        "score": "2",
+        "winner": true
+      }
+    },
+    {
+      "id": "760481",
+      "date": "2026-06-27",
+      "kickoff": "2026-06-27T23:30Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Portugal at Colombia",
+      "home": {
+        "name": "Colombia",
+        "abbr": "COL",
+        "id": "208",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/col.png",
+        "color": "#fbd632",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Portugal",
+        "abbr": "POR",
+        "id": "482",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+        "color": "#da291c",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760482",
+      "date": "2026-06-27",
+      "kickoff": "2026-06-27T23:30Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Uzbekistan at Congo DR",
+      "home": {
+        "name": "Congo DR",
+        "abbr": "COD",
+        "id": "2850",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rdc.png",
+        "color": "#418fde",
+        "score": "3",
+        "winner": true
+      },
+      "away": {
+        "name": "Uzbekistan",
+        "abbr": "UZB",
+        "id": "2570",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png",
+        "color": "#ffffff",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "760483",
+      "date": "2026-06-28",
+      "kickoff": "2026-06-28T02:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Argentina at Jordan",
+      "home": {
+        "name": "Jordan",
+        "abbr": "JOR",
+        "id": "2917",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jor.png",
+        "color": "#E70000",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "name": "Argentina",
+        "abbr": "ARG",
+        "id": "202",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+        "color": "#74acdf",
+        "score": "3",
+        "winner": true
+      }
+    },
+    {
+      "id": "760484",
+      "date": "2026-06-28",
+      "kickoff": "2026-06-28T02:00Z",
+      "round": "group-stage",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Austria at Algeria",
+      "home": {
+        "name": "Algeria",
+        "abbr": "ALG",
+        "id": "624",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/alg.png",
+        "color": "#4F9A44",
+        "score": "3",
+        "winner": false
+      },
+      "away": {
+        "name": "Austria",
+        "abbr": "AUT",
+        "id": "474",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png",
+        "color": "#d72b2c",
+        "score": "3",
+        "winner": false
+      }
+    },
+    {
+      "id": "760486",
+      "date": "2026-06-28",
+      "kickoff": "2026-06-28T19:00Z",
+      "round": "round-of-32",
+      "state": "post",
+      "completed": true,
+      "detail": "FT",
+      "name": "Canada at South Africa",
+      "home": {
+        "name": "South Africa",
+        "abbr": "RSA",
+        "id": "467",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png",
+        "color": "#FFB81C",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Canada",
+        "abbr": "CAN",
+        "id": "206",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
+        "color": "#ed2224",
+        "score": "1",
+        "winner": true
+      }
+    },
+    {
+      "id": "760487",
+      "date": "2026-06-29",
+      "kickoff": "2026-06-29T17:00Z",
+      "round": "round-of-32",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Japan at Brazil",
+      "home": {
+        "name": "Brazil",
+        "abbr": "BRA",
+        "id": "205",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+        "color": "#fee000",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Japan",
+        "abbr": "JPN",
+        "id": "627",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
+        "color": "#000555",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760489",
+      "date": "2026-06-29",
+      "kickoff": "2026-06-29T20:30Z",
+      "round": "round-of-32",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Paraguay at Germany",
+      "home": {
+        "name": "Germany",
+        "abbr": "GER",
+        "id": "481",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+        "color": "#FFFFFF",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Paraguay",
+        "abbr": "PAR",
+        "id": "210",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png",
+        "color": "#ea2300",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760488",
+      "date": "2026-06-30",
+      "kickoff": "2026-06-30T01:00Z",
+      "round": "round-of-32",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Morocco at Netherlands",
+      "home": {
+        "name": "Netherlands",
+        "abbr": "NED",
+        "id": "449",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+        "color": "#fb5d00",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Morocco",
+        "abbr": "MAR",
+        "id": "2869",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png",
+        "color": "#df2027",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760490",
+      "date": "2026-06-30",
+      "kickoff": "2026-06-30T17:00Z",
+      "round": "round-of-32",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Norway at Ivory Coast",
+      "home": {
+        "name": "Ivory Coast",
+        "abbr": "CIV",
+        "id": "4789",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/civ.png",
+        "color": "#FF8200",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Norway",
+        "abbr": "NOR",
+        "id": "464",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
+        "color": "#C8102E",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760492",
+      "date": "2026-06-30",
+      "kickoff": "2026-06-30T21:00Z",
+      "round": "round-of-32",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Sweden at France",
+      "home": {
+        "name": "France",
+        "abbr": "FRA",
+        "id": "478",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+        "color": "#000080",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Sweden",
+        "abbr": "SWE",
+        "id": "466",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
+        "color": "#fecb00",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760491",
+      "date": "2026-07-01",
+      "kickoff": "2026-07-01T01:00Z",
+      "round": "round-of-32",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Ecuador at Mexico",
+      "home": {
+        "name": "Mexico",
+        "abbr": "MEX",
+        "id": "203",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png",
+        "color": "#006847",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Ecuador",
+        "abbr": "ECU",
+        "id": "209",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png",
+        "color": "#ffdd00",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760495",
+      "date": "2026-07-01",
+      "kickoff": "2026-07-01T16:00Z",
+      "round": "round-of-32",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Congo DR at England",
+      "home": {
+        "name": "England",
+        "abbr": "ENG",
+        "id": "448",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+        "color": "#ffffff",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Congo DR",
+        "abbr": "COD",
+        "id": "2850",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rdc.png",
+        "color": "#418fde",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760493",
+      "date": "2026-07-01",
+      "kickoff": "2026-07-01T20:00Z",
+      "round": "round-of-32",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Senegal at Belgium",
+      "home": {
+        "name": "Belgium",
+        "abbr": "BEL",
+        "id": "459",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+        "color": "#E30613",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Senegal",
+        "abbr": "SEN",
+        "id": "654",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sen.png",
+        "color": "#FFFFFF",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760494",
+      "date": "2026-07-02",
+      "kickoff": "2026-07-02T00:00Z",
+      "round": "round-of-32",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Bosnia-Herzegovina at United States",
+      "home": {
+        "name": "United States",
+        "abbr": "USA",
+        "id": "660",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "color": "#d42339",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Bosnia-Herzegovina",
+        "abbr": "BIH",
+        "id": "452",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png",
+        "color": "#112855",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760497",
+      "date": "2026-07-02",
+      "kickoff": "2026-07-02T19:00Z",
+      "round": "round-of-32",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Austria at Spain",
+      "home": {
+        "name": "Spain",
+        "abbr": "ESP",
+        "id": "164",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+        "color": "#c60b1e",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Austria",
+        "abbr": "AUT",
+        "id": "474",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png",
+        "color": "#d72b2c",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760496",
+      "date": "2026-07-02",
+      "kickoff": "2026-07-02T23:00Z",
+      "round": "round-of-32",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Croatia at Portugal",
+      "home": {
+        "name": "Portugal",
+        "abbr": "POR",
+        "id": "482",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+        "color": "#da291c",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Croatia",
+        "abbr": "CRO",
+        "id": "477",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cro.png",
+        "color": "#ff0000",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760498",
+      "date": "2026-07-03",
+      "kickoff": "2026-07-03T03:00Z",
+      "round": "round-of-32",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Algeria at Switzerland",
+      "home": {
+        "name": "Switzerland",
+        "abbr": "SUI",
+        "id": "475",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
+        "color": "#FF0000",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Algeria",
+        "abbr": "ALG",
+        "id": "624",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/alg.png",
+        "color": "#4F9A44",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760499",
+      "date": "2026-07-03",
+      "kickoff": "2026-07-03T18:00Z",
+      "round": "round-of-32",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Egypt at Australia",
+      "home": {
+        "name": "Australia",
+        "abbr": "AUS",
+        "id": "628",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+        "color": "#FFCD00",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Egypt",
+        "abbr": "EGY",
+        "id": "2620",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/egy.png",
+        "color": "#D20300",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760500",
+      "date": "2026-07-03",
+      "kickoff": "2026-07-03T22:00Z",
+      "round": "round-of-32",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Cape Verde at Argentina",
+      "home": {
+        "name": "Argentina",
+        "abbr": "ARG",
+        "id": "202",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+        "color": "#74acdf",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Cape Verde",
+        "abbr": "CPV",
+        "id": "2597",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cpv.png",
+        "color": "#000080",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760501",
+      "date": "2026-07-04",
+      "kickoff": "2026-07-04T01:30Z",
+      "round": "round-of-32",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Ghana at Colombia",
+      "home": {
+        "name": "Colombia",
+        "abbr": "COL",
+        "id": "208",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/col.png",
+        "color": "#fbd632",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Ghana",
+        "abbr": "GHA",
+        "id": "4469",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gha.png",
+        "color": "#fbd632",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760502",
+      "date": "2026-07-04",
+      "kickoff": "2026-07-04T17:00Z",
+      "round": "round-of-16",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Round of 32 3 Winner at Canada",
+      "home": {
+        "name": "Canada",
+        "abbr": "CAN",
+        "id": "206",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
+        "color": "#ed2224",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Round of 32 3 Winner",
+        "abbr": "RD32",
+        "id": "131527",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760503",
+      "date": "2026-07-04",
+      "kickoff": "2026-07-04T21:00Z",
+      "round": "round-of-16",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Round of 32 5 Winner at Round of 32 2 Winner",
+      "home": {
+        "name": "Round of 32 2 Winner",
+        "abbr": "RD32",
+        "id": "131526",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Round of 32 5 Winner",
+        "abbr": "RD32",
+        "id": "131529",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760504",
+      "date": "2026-07-05",
+      "kickoff": "2026-07-05T20:00Z",
+      "round": "round-of-16",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Round of 32 6 Winner at Round of 32 4 Winner",
+      "home": {
+        "name": "Round of 32 4 Winner",
+        "abbr": "RD32",
+        "id": "131528",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Round of 32 6 Winner",
+        "abbr": "RD32",
+        "id": "131530",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760505",
+      "date": "2026-07-06",
+      "kickoff": "2026-07-06T00:00Z",
+      "round": "round-of-16",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Round of 32 8 Winner at Round of 32 7 Winner",
+      "home": {
+        "name": "Round of 32 7 Winner",
+        "abbr": "RD32",
+        "id": "131531",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Round of 32 8 Winner",
+        "abbr": "RD32",
+        "id": "131532",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760506",
+      "date": "2026-07-06",
+      "kickoff": "2026-07-06T19:00Z",
+      "round": "round-of-16",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Round of 32 12 Winner at Round of 32 11 Winner",
+      "home": {
+        "name": "Round of 32 11 Winner",
+        "abbr": "RD32",
+        "id": "131535",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Round of 32 12 Winner",
+        "abbr": "RD32",
+        "id": "131536",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760507",
+      "date": "2026-07-07",
+      "kickoff": "2026-07-07T00:00Z",
+      "round": "round-of-16",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Round of 32 10 Winner at Round of 32 9 Winner",
+      "home": {
+        "name": "Round of 32 9 Winner",
+        "abbr": "RD32",
+        "id": "131533",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Round of 32 10 Winner",
+        "abbr": "RD32",
+        "id": "131534",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760509",
+      "date": "2026-07-07",
+      "kickoff": "2026-07-07T16:00Z",
+      "round": "round-of-16",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Round of 32 16 Winner at Round of 32 14 Winner",
+      "home": {
+        "name": "Round of 32 14 Winner",
+        "abbr": "RD32",
+        "id": "131538",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Round of 32 16 Winner",
+        "abbr": "RD32",
+        "id": "131540",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760508",
+      "date": "2026-07-07",
+      "kickoff": "2026-07-07T20:00Z",
+      "round": "round-of-16",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Round of 32 15 Winner at Round of 32 13 Winner",
+      "home": {
+        "name": "Round of 32 13 Winner",
+        "abbr": "RD32",
+        "id": "131537",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Round of 32 15 Winner",
+        "abbr": "RD32",
+        "id": "131539",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760510",
+      "date": "2026-07-09",
+      "kickoff": "2026-07-09T20:00Z",
+      "round": "quarterfinals",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Round of 16 2 Winner at Round of 16 1 Winner",
+      "home": {
+        "name": "Round of 16 1 Winner",
+        "abbr": "RD16 W1",
+        "id": "19282",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Round of 16 2 Winner",
+        "abbr": "RD16 W2",
+        "id": "19283",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760511",
+      "date": "2026-07-10",
+      "kickoff": "2026-07-10T19:00Z",
+      "round": "quarterfinals",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Round of 16 6 Winner at Round of 16 5 Winner",
+      "home": {
+        "name": "Round of 16 5 Winner",
+        "abbr": "RD16 W5",
+        "id": "19278",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Round of 16 6 Winner",
+        "abbr": "RD16 W6",
+        "id": "19279",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760512",
+      "date": "2026-07-11",
+      "kickoff": "2026-07-11T21:00Z",
+      "round": "quarterfinals",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Round of 16 4 Winner at Round of 16 3 Winner",
+      "home": {
+        "name": "Round of 16 3 Winner",
+        "abbr": "RD16 W3",
+        "id": "19284",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Round of 16 4 Winner",
+        "abbr": "RD16 W4",
+        "id": "19285",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760513",
+      "date": "2026-07-12",
+      "kickoff": "2026-07-12T01:00Z",
+      "round": "quarterfinals",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Round of 16 8 Winner at Round of 16 7 Winner",
+      "home": {
+        "name": "Round of 16 7 Winner",
+        "abbr": "RD16 W7",
+        "id": "19280",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Round of 16 8 Winner",
+        "abbr": "RD16 W8",
+        "id": "19281",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760514",
+      "date": "2026-07-14",
+      "kickoff": "2026-07-14T19:00Z",
+      "round": "semifinals",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Quarterfinal 2 Winner at Quarterfinal 1 Winner",
+      "home": {
+        "name": "Quarterfinal 1 Winner",
+        "abbr": "QFW1",
+        "id": "17631",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Quarterfinal 2 Winner",
+        "abbr": "QFW2",
+        "id": "17629",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760515",
+      "date": "2026-07-15",
+      "kickoff": "2026-07-15T19:00Z",
+      "round": "semifinals",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Quarterfinal 4 Winner at Quarterfinal 3 Winner",
+      "home": {
+        "name": "Quarterfinal 3 Winner",
+        "abbr": "QFW3",
+        "id": "17630",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Quarterfinal 4 Winner",
+        "abbr": "QW4",
+        "id": "17632",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760516",
+      "date": "2026-07-18",
+      "kickoff": "2026-07-18T21:00Z",
+      "round": "3rd-place-match",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Semifinal 2 Loser at Semifinal 1 Loser",
+      "home": {
+        "name": "Semifinal 1 Loser",
+        "abbr": "SF L1",
+        "id": "5958",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Semifinal 2 Loser",
+        "abbr": "SF L2",
+        "id": "5959",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "760517",
+      "date": "2026-07-19",
+      "kickoff": "2026-07-19T19:00Z",
+      "round": "final",
+      "state": "pre",
+      "completed": false,
+      "detail": "Scheduled",
+      "name": "Semifinal 2 Winner at Semifinal 1 Winner",
+      "home": {
+        "name": "Semifinal 1 Winner",
+        "abbr": "SFW1",
+        "id": "5960",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "name": "Semifinal 2 Winner",
+        "abbr": "SFW2",
+        "id": "5961",
+        "logo": null,
+        "color": "#000000",
+        "score": "0",
+        "winner": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<title>Restless Sweep · World Cup 2026</title>
+<meta name="description" content="Restless office World Cup 2026 sweepstake — last player standing, live survival points leaderboard." />
+<meta name="theme-color" content="#0a1020" />
+<link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+<link rel="apple-touch-icon" href="./favicon.svg" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Hanken+Grotesk:wght@400;500;600;700;800&family=Spline+Sans+Mono:wght@500;600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+<div class="grain" aria-hidden="true"></div>
+<canvas id="confetti" aria-hidden="true"></canvas>
+
+<header class="topbar">
+  <div class="crest" aria-hidden="true">
+    <span class="crest-ball">★</span>
+    <span class="crest-yr">26</span>
+  </div>
+  <div class="title-wrap">
+    <h1>Restless <em>Sweep</em></h1>
+    <p class="subtitle">FIFA World Cup 2026 · Office Sweepstake</p>
+  </div>
+  <button id="refresh" class="refresh" title="Refresh scores" aria-label="Refresh scores">
+    <span class="refresh-ico">⟳</span>
+  </button>
+</header>
+
+<section class="survivor-banner" id="survivorBanner">
+  <div class="surv-count"><span id="survCount">–</span></div>
+  <div class="surv-label">still<br />standing</div>
+  <div class="surv-meter"><div class="surv-fill" id="survFill"></div><span class="surv-of" id="survOf"></span></div>
+</section>
+
+<nav class="tabs" id="tabs" role="tablist">
+  <button class="tab active" data-view="leaderboard" role="tab" aria-selected="true">🏆 Leaderboard</button>
+  <button class="tab" data-view="fixtures" role="tab" aria-selected="false">📅 Fixtures</button>
+</nav>
+
+<div class="view" id="view-leaderboard" role="tabpanel">
+  <section class="rail" id="rail" aria-label="Highlights"></section>
+
+  <main class="board" id="board" aria-live="polite">
+    <div class="loading">Kicking off… loading the latest scores</div>
+  </main>
+
+  <section class="legend">
+    <div class="legend-title">How points work</div>
+    <ul class="legend-rules">
+      <li><b>Win</b> +3 · <b>Draw</b> +1 per match</li>
+      <li><b>Reach</b> R32 +5 · R16 +8 · QF +13 · SF +21 · Final +34 <span class="muted">(banked, cumulative)</span></li>
+      <li><b>Champion</b> 🏆 +55</li>
+      <li>You're <b class="ok">alive</b> while one of your 3 teams survives · <b class="dead">out</b> 💀 when all are gone</li>
+      <li class="muted">P3 picks already knocked out were scrubbed off the board (shown “P3 out”); a few drawn teams aren’t in WC2026 and score nothing.</li>
+    </ul>
+  </section>
+</div>
+
+<div class="view" id="view-fixtures" role="tabpanel" hidden>
+  <section class="schedule" id="schedule" aria-label="Upcoming fixtures"></section>
+</div>
+
+<footer class="pagefoot">
+  <div class="updated" id="updated"></div>
+  <div class="credit">Live data · refreshes itself during matches, rests in between</div>
+</footer>
+
+<div class="modal" id="modal" hidden>
+  <div class="modal-card" id="modalCard"></div>
+</div>
+
+<script type="module" src="./app.js"></script>
+</body>
+</html>
