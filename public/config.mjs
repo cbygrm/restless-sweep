@@ -3,7 +3,7 @@
 // Edit point values here and the leaderboard recalculates everywhere.
 // =============================================================================
 
-// --- The draw (Restless office sweep). 16 players, 3 teams each. -------------
+// --- The draw (Company sweep). 16 players, 3 teams each. ---------------------
 // P3 picks that were already knocked out had been scrubbed off the whiteboard
 // and are unrecoverable — those are `null` (shown as an "already out" slot).
 // Names are canonical; accents/spelling are normalised against the live feed.
